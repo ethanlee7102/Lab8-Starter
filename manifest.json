@@ -2,7 +2,7 @@
     "name": "Lab8-Starter",
     "short_name": "Ethan Lee",
     "description": "A pracice PWA for lab 8",
-    "start_url": "/index.html",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#d6d1c3",
     "theme_color": "#55619e",
